@@ -1,6 +1,6 @@
 <div align="center">
 
-![ZeFlix](../imersao-react/src/assets/img/netflix-logo.png)
+![ZeFlix](src/assets/img/netflix-logo.png)
 
 </div>
 
@@ -15,8 +15,21 @@
 
 ## 🚀 Technologies
 
+### Front-end
+
+- [Vercel](https://vercel.com/) - Deploy
 - [Create React App](https://pt-br.reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 - [Styled Components](https://styled-components.com/)
 - [Eslint](https://eslint.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 - [React Slick](https://react-slick.neostack.com/) - Carousel lib
+- [Prop types](https://www.npmjs.com/package/prop-types)
+
+### Back-end
+
+- [Heroku]() - Deploy
+- [JSON Server](https://github.com/typicode/json-server)
+
+### Others
+
+- [Concurrently](https://www.npmjs.com/package/concurrently) - Run multiple commands concurrently
